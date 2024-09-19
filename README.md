@@ -40,6 +40,10 @@ A curated list of awesome resources, libraries, frameworks, and tools for genera
 * LLM-Collaboration on Automatic Science Journalism for the General Audience ([Paper](https://arxiv.org/pdf/2407.09756))
 * LLM experiments with simulation: Large Language Model Multi-Agent System for Process Simulation Parametrization in Digital Twins ([Paper](https://arxiv.org/pdf/2405.18092))
 
+## Software Development
+
+* MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution ([Paper](https://arxiv.org/pdf/2403.17927))
+
 ## Health
 
 * Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents ([Paper](https://arxiv.org/abs/2405.02957))
