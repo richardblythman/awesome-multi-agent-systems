@@ -26,6 +26,7 @@ A curated list of awesome resources, libraries, frameworks, and tools for genera
 * Simulating social media using large language models to evaluate alternative news feed algorithms. ([Paper](https://arxiv.org/abs/2310.05984))
 * Improving interpersonal communication by simulating audiences with language models ([Paper](https://arxiv.org/pdf/2311.00687))
 * Simulating Family Conversations using LLMs: Demonstration of Parenting Styles ([Paper](https://arxiv.org/abs/2403.06144))
+* Y Social: an LLM-powered Social Media Digital Twin ([Paper](https://arxiv.org/abs/2408.00818))
 
 ## Science
 
