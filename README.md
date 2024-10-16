@@ -55,6 +55,7 @@ A curated list of awesome resources, libraries, frameworks, and tools for genera
 * Exploring LLM Multi-Agents for ICD Coding ([Paper](https://arxiv.org/pdf/2406.15363))
 * Epidemic Modeling with Generative Agents ([Paper](https://arxiv.org/abs/2307.04986))
 * MEDCO: Medical Education Copilots Based on A Multi-Agent Framework ([Paper](https://arxiv.org/abs/2408.12496))
+* MALADE: Orchestration of LLM-powered Agents with Retrieval Augmented Generation for Pharmacovigilance ([Paper](https://arxiv.org/abs/2408.01869))
 
 ## Education
 
