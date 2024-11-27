@@ -101,6 +101,9 @@ A curated list of awesome resources, libraries, frameworks, and tools for genera
 * Fictional Worlds, Real Connections: Developing Community Storytelling Social Chatbots through LLMs ([Paper](https://arxiv.org/pdf/2309.11478))
 * Towards a Holodeck-style Simulation Game ([Paper](https://arxiv.org/pdf/2308.13548))
 
+## Game Theory
+
+* Game-theoretic LLM: Agent Workflow for Negotiation Games ([Paper](https://arxiv.org/abs/2411.05990), [Code](https://github.com/Wenyueh/game_theory/tree/main/src/deal_no_deal))
 
 ## Security
 
