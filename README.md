@@ -40,6 +40,7 @@ A curated list of awesome resources, libraries, frameworks, and tools for genera
 * Empowering Biomedical Discovery with AI Agents ([Paper](https://arxiv.org/pdf/2404.02831))
 * LLM-Collaboration on Automatic Science Journalism for the General Audience ([Paper](https://arxiv.org/pdf/2407.09756))
 * LLM experiments with simulation: Large Language Model Multi-Agent System for Process Simulation Parametrization in Digital Twins ([Paper](https://arxiv.org/pdf/2405.18092))
+* SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning
 
 ## Software Development
 
