@@ -15,6 +15,8 @@ A curated list of awesome resources, libraries, frameworks, and tools for genera
 * FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models ([Paper](https://arxiv.org/pdf/2405.14767))
 * Agentic Retrieval-Augmented Generation for Time Series Analysis ([Paper](https://arxiv.org/abs/2408.14484))
 * Wisdom of the Silicon Crowd: LLM Ensemble Prediction Capabilities Rival Human Crowd Accuracy ([Paper](https://arxiv.org/abs/2402.19379))
+* FinCon: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making
+* InvestESG: A multi-agent reinforcement learning benchmark for studying climate investment as a social dilemma
 
 ## Social
 
@@ -27,6 +29,7 @@ A curated list of awesome resources, libraries, frameworks, and tools for genera
 * Improving interpersonal communication by simulating audiences with language models ([Paper](https://arxiv.org/pdf/2311.00687))
 * Simulating Family Conversations using LLMs: Demonstration of Parenting Styles ([Paper](https://arxiv.org/abs/2403.06144))
 * Y Social: an LLM-powered Social Media Digital Twin ([Paper](https://arxiv.org/abs/2408.00818))
+* OASIS: Open Agent Social Interaction Simulations with One Million Agents
 
 ## Science
 
@@ -41,6 +44,7 @@ A curated list of awesome resources, libraries, frameworks, and tools for genera
 * LLM-Collaboration on Automatic Science Journalism for the General Audience ([Paper](https://arxiv.org/pdf/2407.09756))
 * LLM experiments with simulation: Large Language Model Multi-Agent System for Process Simulation Parametrization in Digital Twins ([Paper](https://arxiv.org/pdf/2405.18092))
 * SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning
+* Two Heads Are Better Than One: A Multi-Agent System Has the Potential to Improve Scientific Idea Generation
 
 ## Software Development
 
