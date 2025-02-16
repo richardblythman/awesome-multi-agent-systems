@@ -124,6 +124,7 @@ A curated list of awesome resources, libraries, frameworks, and tools for genera
 * Simulating The U.S. Senate: An LLM-Driven Agent Approach to Modeling Legislative Behavior and Bipartisanship ([Paper](https://arxiv.org/pdf/2406.18702))
 * Cooperate or Collapse: Emergence of Sustainable Cooperation in a Society of LLM Agents ([Paper](https://arxiv.org/pdf/2404.16698))
 * Simulating Policy Impacts: Developing a Generative Scenario Writing Method to Evaluate the Perceived Effects of Regulation ([Paper](https://arxiv.org/pdf/2405.09679))
+* Incentives to Build Houses, Trade Houses, or Trade House Building Skills in Simulated Worlds under Various Governing Systems or Institutions: Comparing Multi-agent Reinforcement Learning to Generative Agent-based Model ([Paper](https://arxiv.org/abs/2411.17724))
 
 ## Urban Planning
 
