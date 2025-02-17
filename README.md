@@ -96,6 +96,7 @@ A curated list of awesome resources, libraries, frameworks, and tools for genera
 * User Behavior Simulation with Large Language Model based Agent ([Paper](https://arxiv.org/pdf/2306.02552))
 * BASES: large-scale web search user simulation with large language model based agents ([Paper](https://arxiv.org/pdf/2402.17505))
 * Elicitron: An LLM Agent-Based Simulation Framework for Design Requirements Elicitation ([Paper](https://arxiv.org/pdf/2404.16045))
+* LMAgent: A Large-scale Multimodal Agents Society for Multi-user Simulation ([Paper]([https://arxiv.org/pdf/2404.16045](https://arxiv.org/abs/2412.09237)))
 
 ## Gaming
 
@@ -125,6 +126,10 @@ A curated list of awesome resources, libraries, frameworks, and tools for genera
 * Cooperate or Collapse: Emergence of Sustainable Cooperation in a Society of LLM Agents ([Paper](https://arxiv.org/pdf/2404.16698))
 * Simulating Policy Impacts: Developing a Generative Scenario Writing Method to Evaluate the Perceived Effects of Regulation ([Paper](https://arxiv.org/pdf/2405.09679))
 * Incentives to Build Houses, Trade Houses, or Trade House Building Skills in Simulated Worlds under Various Governing Systems or Institutions: Comparing Multi-agent Reinforcement Learning to Generative Agent-based Model ([Paper](https://arxiv.org/abs/2411.17724))
+
+## Alignment
+
+* Agent Alignment in Evolving Social Norms
 
 ## Urban Planning
 
